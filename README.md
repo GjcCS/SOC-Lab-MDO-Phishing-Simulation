@@ -9,7 +9,7 @@
 
 This project simulates a real-world **credential harvesting phishing attack** against a Microsoft 365 tenant, using **Microsoft Defender for Office 365 (MDO)** to configure threat protection policies, launch a controlled attack simulation, and investigate the resulting telemetry using KQL (Kusto Query Language).
 
-This is Episode 2 of an 8-part SOC Analyst portfolio series. Episode 1 covered endpoint threat simulation with Microsoft Defender for Endpoint ([link to repo]). This episode shifts focus to the **email attack surface**, one of the most common initial access vectors in real-world incidents.
+This is Episode 2 of an 8-part SOC Analyst portfolio series. Episode 1 covered endpoint threat simulation with Microsoft Defender for Endpoint (https://github.com/GjcCS/SOC-Lab-MDE-Threat-Simulation). This episode shifts focus to the **email attack surface**, one of the most common initial access vectors in real-world incidents.
 
 **🎯 Goal:** Demonstrate hands-on ability to configure MDO threat policies, design a realistic phishing payload, execute a controlled simulation, and analyze the results the way a SOC Analyst would investigate a real user-reported phishing case.
 
