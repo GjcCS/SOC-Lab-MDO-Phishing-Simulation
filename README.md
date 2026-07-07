@@ -44,8 +44,6 @@ Configured three custom MDO threat policies scoped to the test user population:
 - Unknown malware response set to **Block**.
 - Quarantine policy configured with the understanding that confirmed-malware detections always require admin release, regardless of configured end-user permissions. This is a deliberate Microsoft safety control worth noting for SOC documentation.
 
-> 🩹 **Troubleshooting note:** Policy creation initially failed with a generic backend `Client Error` (diagnostic trace included deployment/instance IDs pointing to a transient service-side issue, not a misconfiguration). Resolved by recreating the policy with impersonation/domain toggles left in their minimal default state, isolating the cause before re-enabling advanced settings.
-
 ---
 
 ## 🧪 Phase 2: Manual Policy Validation (Baseline Test)
