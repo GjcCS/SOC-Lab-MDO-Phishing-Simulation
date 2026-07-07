@@ -161,3 +161,16 @@ UrlClickEvents
 - A "successful" phish (click + credential entry) is not necessarily the end of the story. User self-reporting after the fact is a meaningful secondary signal for measuring security awareness culture.
 
 ---
+
+## ⚠️ Disclaimer
+
+All attack simulations in this lab were performed in a **controlled, isolated environment** owned and managed by the author. No production systems, networks, or third-party infrastructure were involved. This project is intended solely for educational purposes and cybersecurity skill development.
+
+---
+
+## 👤 Author
+
+**Guillermo Costa**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guillermo%20Costa-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/guillermo-costa)
+[![GitHub](https://img.shields.io/badge/GitHub-GjcCS-black?style=flat&logo=github)](https://github.com/GjcCS)
